@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @yawuxi (Dmitry)
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me: xaers.work@gmail.com
+- 🌱 I’m currently learning HTML/CSS/JS
+   - ___My works___
+      - [motomarket (wordpress)](https://motomarket.com.ua/)
+      - [cult landing](https://github.com/yawuxi/CULT)
+      - [my gulp-build](https://github.com/yawuxi/gulp-build)
 
 <!---
 yawuxi/yawuxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
