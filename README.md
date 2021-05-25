@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yawuxi (Dmitry)
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me: xaers.work@gmail.com
 
 <!---
