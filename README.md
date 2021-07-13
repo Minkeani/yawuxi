@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning HTML/CSS/JS
    - ___My works___
       - [motomarket (wordpress)](https://motomarket.com.ua/)
-      - [cult landing](https://github.com/yawuxi/CULT)
+      - [noMoneyLanding](https://github.com/yawuxi/noMoneyLanding)
+      - [cultLanding](https://github.com/yawuxi/CULT)
       - [my gulp-build](https://github.com/yawuxi/gulp-build)
 
 <!---
