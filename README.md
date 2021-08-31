@@ -2,8 +2,6 @@
 
 ---
 
-<br />
-
 - 🌱 I’m currently learning JS, React
 - 🥅 2021 Goals: become junior front-end developer
 - ⚡ Fun fact: I love boxing and play guitar
@@ -27,16 +25,21 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br />
+<br />
 
-```
-- [x] learn HTML
-- [x] learn CSS
-- [x] learn SCSS
-- [ ] learn JS
-- [ ] learn React
-- [ ] get a job like junior Front-end developer
-- [ ] buy a honda cbr600rr
-```
+🚧 **my tasks for the nearest time:**
+<!-- TODO-IST:START -->
+* [x] learn HTML
+* [x] learn CSS
+* [x] learn SCSS
+* [ ] learn JS
+* [ ] learn React
+* [ ] get a job like junior Front-end developer
+* [ ] buy a honda cbr600rr
+<!-- TODO-IST:END -->
+
+[telegram]: https://t.me/yawuxi
+[instagram]: https://www.instagram.com/yawuxi/
 
 [telegram]: https://t.me/yawuxi
 [instagram]: https://www.instagram.com/yawuxi/
