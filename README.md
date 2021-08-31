@@ -26,8 +26,9 @@
 
 <br />
 <br />
+<br />
 
-🚧 **my tasks for the nearest time:**
+🚧 **My tasks for the nearest time:**
 <!-- TODO-IST:START -->
 * [x] learn HTML
 * [x] learn CSS
@@ -40,10 +41,6 @@
 
 [telegram]: https://t.me/yawuxi
 [instagram]: https://www.instagram.com/yawuxi/
-
-[telegram]: https://t.me/yawuxi
-[instagram]: https://www.instagram.com/yawuxi/
-
 <!-- - 👋 Hi, I’m @yawuxi (Dmitry)
 - 👀 I’m interested in Front-end Development
 - 📫 How to reach me: ryliov.work@gmail.com
