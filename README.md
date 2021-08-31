@@ -28,7 +28,7 @@
 <br />
 <br />
 
-🚧 **My tasks for the nearest time:**
+<h2>🚧<strong>My tasks for the nearest time:</strong></h2>
 <!-- TODO-IST:START -->
 * [x] learn HTML
 * [x] learn CSS
