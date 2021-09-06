@@ -35,7 +35,7 @@
 * [x] learn SCSS
 * [ ] learn JS
 * [ ] learn React
-* [ ] get a job like junior Front-end developer
+* [ ] get a job like junior Front-end developer in 2021 till December 31
 * [ ] buy a honda cbr600rr
 <!-- TODO-IST:END -->
 
