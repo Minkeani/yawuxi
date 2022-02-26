@@ -39,7 +39,7 @@
 <!-- TODO-IST:END -->
 
 [telegram]: https://t.me/yawuxi
-[instagram]: https://www.instagram.com/yawuxi/
+[instagram]: https://www.instagram.com/hstobr/
 <!-- - 👋 Hi, I’m @yawuxi (Dmitry)
 - 👀 I’m interested in Front-end Development
 - 📫 How to reach me: ryliov.work@gmail.com
