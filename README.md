@@ -34,7 +34,9 @@
 * [x] learn CSS
 * [x] learn SCSS
 * [x] learn JS
-* [ ] learn React
+* [x] learn React
+* [x] create pet-project - Weather App
+* [ ] create pet-project - Money-control SPA
 * [ ] buy a honda cbr600rr
 <!-- TODO-IST:END -->
 
