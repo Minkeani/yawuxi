@@ -1,10 +1,8 @@
 ### Hi there, I'm Dmitry👋
 
 ---
-
-- 🌱 I’m currently learning JS, React
-- 🥅 2021 Goals: become junior front-end developer
-- ⚡ Fun fact: I love boxing and play guitar
+- 🥅 2022 Goals: become junior front-end developer
+- ⚡ Hobby: boxing n guitar
 - 📫 How to reach me: ryliov.work@gmail.com
 
 <br />
