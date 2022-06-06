@@ -1,6 +1,8 @@
 <!-- [![Header](https://github.com/Aneckon/Aneckon/blob/main/assets/header.png)]() -->
 <!-- [![Header](https://github.com/yawuxi/yawuxi/blob/main/assets/wallpaperflare.com_wallpaper.jpg)]() -->
-<img src="https://github.com/yawuxi/yawuxi/blob/main/assets/wallpaperflare.com_wallpaper.jpg" alt="header" style="width: 60%"/>
+<!-- <img src="https://github.com/yawuxi/yawuxi/blob/main/assets/wallpaperflare.com_wallpaper.jpg" alt="header" style="width: 60%"/> -->
+<img src="https://github.com/yawuxi/yawuxi/blob/main/assets/wallpaperflare.com_wallpaper.jpg" alt="header" style="width: 75%"/>
+<!-- <img src="https://github.com/yawuxi/yawuxi/blob/main/assets/grebz-wide.png" alt="header" style="width: 100%; height: 50%;"/> -->
 
 
 ### Follow Me:
