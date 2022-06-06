@@ -1,56 +1,25 @@
-### Hi there, I'm Dmitry👋
+<!-- [![Header](https://github.com/Aneckon/Aneckon/blob/main/assets/header.png)]() -->
+<!-- [![Header](https://github.com/yawuxi/yawuxi/blob/main/assets/wallpaperflare.com_wallpaper.jpg)]() -->
+<img src="https://github.com/yawuxi/yawuxi/blob/main/assets/wallpaperflare.com_wallpaper.jpg" alt="header" style="width: 60%"/>
 
----
-- 🥅 2022 Goals: become junior front-end developer
-- ⚡ Hobby: boxing n guitar
-- 📫 How to reach me: ryliov.work@gmail.com
 
-<br />
+### Follow Me:
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yawuxi)
+[![GMAIL](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ryliov.work@gmail.com)
 
-<br />
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<br />
-<br />
-<br />
-
-🚧**My tasks for the nearest time:**
-<!-- TODO-IST:START -->
-* [x] learn HTML
-* [x] learn CSS
-* [x] learn SCSS
-* [x] learn JS
-* [x] learn React
-* [x] create pet-project - Weather App
-* [ ] create pet-project - Money-control SPA
-* [ ] buy a honda cbr600rr
-<!-- TODO-IST:END -->
-
-[telegram]: https://t.me/yawuxi
-[instagram]: https://www.instagram.com/hstobr/
-<!-- - 👋 Hi, I’m @yawuxi (Dmitry)
-- 👀 I’m interested in Front-end Development
-- 📫 How to reach me: ryliov.work@gmail.com
-- 🌱 I’m currently learning HTML/CSS/JS
-   - ___My works___
-      - [motomarket (wordpress)](https://motomarket.com.ua/)
-      - [noMoneyLanding](https://github.com/yawuxi/noMoneyLanding)
-      - [cultLanding](https://github.com/yawuxi/CULT)
-      - [my gulp-build](https://github.com/yawuxi/gulp-build) -->
-
-<!---
-yawuxi/yawuxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
+![React-router](https://img.shields.io/badge/-REACT'ROUTER-090909?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=json)
+<br/>
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)
+<br/>
+![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp&logoColor=CF4647)
+![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+<br/>
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)
