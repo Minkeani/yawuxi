@@ -5,11 +5,9 @@
 <!-- <img src="https://github.com/yawuxi/yawuxi/blob/main/assets/grebz-wide.png" alt="header" style="width: 100%; height: 50%;"/> -->
 
 
-### Follow Me:
+### Contact Me:
 
 [![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yawuxi)
-[![GMAIL](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ryliov.work@gmail.com)
-
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
